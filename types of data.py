@@ -43,7 +43,7 @@ array_2 = {"name": 'Andrey',
            "experience": None,
            "age": 22}
 
-""" Типы данных set """
+""" Типы данных set (множество)"""
 # еще один вид набора, который хранит только уникальные элементы.
 people = ["Mike", "Bill", "Ted"]
 users = set(people)
